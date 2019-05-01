@@ -1,0 +1,14 @@
+body{
+background-color: #EBEBEB
+}
+
+div{
+    background-color: white;
+    margin:0 25% 0 25%;
+    border-radius: 0.8%
+}
+
+.Tim {
+    border-radius: 50%;
+    border-image: grey 39px
+}
