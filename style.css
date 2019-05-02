@@ -1,11 +1,3 @@
-@font-face {font-family: "Sirichana W31";
-    src: url("a42742734c37eb4f2f788149fcac854c.eot"); /* IE9*/
-    src: url("a42742734c37eb4f2f788149fcac854c.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-    url("a42742734c37eb4f2f788149fcac854c.woff2") format("woff2"), /* chrome、firefox */
-    url("a42742734c37eb4f2f788149fcac854c.woff") format("woff"), /* chrome、firefox */
-    url("a42742734c37eb4f2f788149fcac854c.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
-    url("a42742734c37eb4f2f788149fcac854c.svg#Sirichana W31") format("svg"); /* iOS 4.1- */
-  }
 
 body{
 background-color: #EBEBEB;
@@ -45,27 +37,28 @@ div{
     color:#DB4856;
     text-align: center;
     font-family: "Montserrat";
-    font-weight: 900;
+    font-weight: 500;
 
 }
 .TimBerners-Lee h2{
-    font-family: Montserrat;
+    font-family: "Montserrat";
     color:#988B81;
     text-align: center;
-    font-weight: 600
+    font-weight: 300
 
 }
 .TimBerners-Lee p{
     margin:5% 5% 1% 5%;
-    font-family:"Sirichana W31";
+    font-family:"Montserrat";
     font-style:normal;
     color:#7F8183;
     margin-left: 4%;
     margin-right: 4%;
-    line-height: 80%;
-    font-size: 230%;
+    line-height: ;
+    font-size: 100%;
     text-align: justify;
-    font-weight: 500
+    font-weight: 500;
+
 }
 .seeforyourself {
     margin:auto;
@@ -77,9 +70,9 @@ div{
     align-items: center;
     justify-content: center;
     color: white;
-    font-family:"Sirichana W31";
+    font-family:"Montserrat";
     font-weight: bold;
-    font-size: 250%;
+    font-size: 150%;
 
 
 }
@@ -109,7 +102,7 @@ i {
     justify-content: space-around;
     margin:0 10% 0 10%;
     margin-right: 17%;
-    margin-left: 17%
+    margin-left: 17%;
     padding: 0;
     color: #CBCBCB;
 
@@ -124,8 +117,8 @@ i {
  }
 
  .socialname {
-    font-family: "Sirichana W31";
-    font-size: 200%;
+    font-family: "Montserrat";
+    font-size: 150%;
  }
 
  /*films*/
@@ -144,15 +137,15 @@ i {
  }
 
  .films{
-     font-family:"Sirichana W31";
+     font-family:"Montserrat";
      font-style:normal;
      color:#7F8183;
      margin-left: 5%;
      margin-right: 5%;
      line-height: 80%;
-     font-size: 200%;
+     font-size: 150%;
      text-align: justify;
-     font-weight: 500
+     font-weight: 400
  }
 
 .films img{
