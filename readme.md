@@ -10,6 +10,6 @@ Reproduction de la page Tim Berners-lee [page de Tim Berners Lee à reproduire ]
 Production: [Page de Tim Berners Lee terminée](https://fabien-desablens.github.io/starting-web-developpment/)
 
 
-Difficultés rencontrées 1. Utilisation de polices qui s'affichaient correctement via l'extension GoLive mais en lancant l'index.html manuellement dans l'explorateur les polices étaient totalement différentes.
+Difficultés rencontrées 1. Utilisation de polices qui s'affichaient correctement via l'extension GoLive mais en lancant l'index.html manuellement dans l'explorateur les polices étaient totalement différentes. J'ai du rechanger les polices.
 
 
